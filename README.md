@@ -13,7 +13,7 @@ A lightweight, persistent, file-backed message queue for Go with automatic crash
 ## 📦 Installation
 
 ```bash
-go get github.com/YOUR_USERNAME/cheap-queue
+go get github.com/Art-Camargo/cheap-queue
 ```
 
 ## 🎯 Quick Start
@@ -23,7 +23,7 @@ package main
 
 import (
     "fmt"
-    cheapqueue "github.com/YOUR_USERNAME/cheap-queue"
+    cheapqueue "github.com/Art-Camargo/cheap-queue"
     "time"
 )
 
