@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	cheapqueue "github.com/arturwwl/cheap-queue/cheap-queue"
+	cheapqueue "github.com/Art-Camargo/cheap-queue/cheap-queue"
 )
 
 func main() {
