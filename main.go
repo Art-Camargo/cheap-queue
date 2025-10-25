@@ -1,12 +1,12 @@
 package main
 
-import "cheap-queue/engine"
+import cheapqueue "cheap-queue/cheap-queue"
 
 
 
 func main() {
 	// Application entry point
-	var q engine.CheapQueueEngine
+	var q cheapqueue.CheapQueueEngine
 	q.Init()
 
 	q.Bind("testQueue", 10)
