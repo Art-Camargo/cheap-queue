@@ -2,10 +2,8 @@ package main
 
 import cheapqueue "cheap-queue/cheap-queue"
 
-
-
 func main() {
-	// Application entry point
+
 	var q cheapqueue.CheapQueueEngine
 	q.Init()
 
